@@ -82,3 +82,28 @@ body{
   border-radius: 10px;
   border: 2px solid red;
  }
+ .home-src{
+  position: absolute;
+  bottom: 100px;
+  width: 170px;
+  display: flex;
+  justify-content: space-between;
+
+  
+ }
+ .home-src a{
+  position: relative;
+  display: inline-flex;
+  justify-content: center;
+  align-items: center;
+  width: 40px;
+  height: 40px;
+  font-size: 30px;
+  background: transparent;
+  border: 2px solid  aquamarine;
+  border-radius: 50%;
+  color: aquamarine;
+  text-decoration: none;
+
+  }
+ 
